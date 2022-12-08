@@ -1,0 +1,14 @@
+.ratingCard {
+  background-color: var(--blue_dark);
+  border-radius: 25px;
+}
+
+.ratingCard__container {
+  box-sizing: inherit;
+  display:    grid;
+  position:   relative;
+  padding:  40px;
+  height:   400px;
+  width:    400px;
+  margin: 0 auto;
+}
